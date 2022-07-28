@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naqeebaftab
-- 👀 I’m interested in deep learning and blockchain development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects for now and for future anything from data science to deep learning.
+- 👀 I’m interested in data analytics, data engineering, and machine learning
+- 🌱 I’m currently learning SQL, Power BI, and Python
+- 💞️ I’m looking to collaborate on data analytics projects for now and for future anything from data science to deep learning.
 - 📫 Reach me through naqeebaftab2.0@gmail.com
 
 <!---
